@@ -16,6 +16,7 @@
     "@babel/core": "^7.0.0-beta.51",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.7.0",
+    "fomantic-ui": "^2.8.6",
     "gulp-babel": "^8.0.0-beta.2",
     "gulp-concat": "^2.6.1",
     "gulp-livereload": "^3.8.1",
@@ -25,6 +26,7 @@
     "minimist": "^1.2.0",
     "natives": "1.1.6",
     "npm": "^6.0.0",
+    "tailwindcss": "^1.6.2",
     "webpack": "^4.14.0",
     "webpack-stream": "^4.0.3"
   }
